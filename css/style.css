@@ -268,7 +268,9 @@ header {
     padding-bottom: 80px;
 }
 
-.project_text {}
+.project_text {
+    margin-bottom: 16px;
+}
 
 .project_text ul li {
     margin-right: 30px !important;
@@ -289,7 +291,7 @@ header {
 }
 
 .project_item {
-    margin-top: 40px;
+    margin-top: 24px;
     position: relative;
     overflow: hidden;
     cursor: pointer;
