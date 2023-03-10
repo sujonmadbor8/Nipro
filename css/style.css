@@ -236,6 +236,10 @@ header {
     padding-bottom: 100px;
 }
 
+.about_img img {
+    width: 100%;
+}
+
 .about p {
     /* line-height: 30px; */
 }
