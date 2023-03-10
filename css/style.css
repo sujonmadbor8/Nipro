@@ -314,6 +314,10 @@ header {
     border-radius: 50%;
 }
 
+.project_item:hover {
+    background-color: rgb(0, 0, 0, 0.7);
+}
+
 .project_item:hover .item_icon {
     display: block;
 }
